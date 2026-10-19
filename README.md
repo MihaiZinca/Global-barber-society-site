@@ -8,8 +8,6 @@ Global Barber Society is a full-stack application developed to support the opera
 
 The platform provides a digital solution for appointment booking, client and barber management, rewards, promotional campaigns and business administration.
 
-Designed and developed by **Zinca Mihai Cristian**, the project combines a modern frontend with a secure backend and cloud integrations to deliver a complete barbershop management experience.
-
 ## 🌐 Live Website
 
 **[https://globalbarber.ro/](https://globalbarber.ro/)**
